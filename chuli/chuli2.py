@@ -20,5 +20,5 @@ def chuli(logyear, logmonth, llogmonth, llogday,name):
     Today = '{}/{}/{}'.format(str(logyear), llogmonth, llogday)
     # print(copymubanpath)
     print(realmubanpath)
-    print(Today)
+    print(Today)#
     return addressyear, addressmonth, realmubanpath, mubanpath, copymubanpath,Today
